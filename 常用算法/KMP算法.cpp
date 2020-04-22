@@ -5,6 +5,7 @@
 
 #include <iostream>
 #include <string>
+#include <iomanip>
 
 using namespace std;
 
@@ -23,7 +24,19 @@ void getnext(string s, int *next)       //next[]从0开始
         {
             i++;
             j++;
-			next[i]=j;
+//
+//这里可以进行改进
+//避免模式串在匹配串最后面的情况
+            if(s[i] != s[j])
+            {
+                next[i]=j;
+            }
+            else
+            {
+                next[i] = next[j];
+            }
+//
+			//next[i]=j;
         }
         else
         {
@@ -58,8 +71,8 @@ int KMP(string s1,string s2, int *next)
 
 int main()
 {
-    string s1="abcdefgh";
-    string s2="cdefg";
+    string s1="aaaaaaaah";
+    string s2="ah";
     int next[100];
     getnext(s2,next);
 
