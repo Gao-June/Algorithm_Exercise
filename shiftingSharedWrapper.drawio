@@ -187,7 +187,7 @@
             <mxPoint x="100" y="55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xG-g7r-yx12NaaFeA4UE-49" value="ExtSe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xG-g7r-yx12NaaFeA4UE-49" value="IntSe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-179.5" y="735" width="39" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xG-g7r-yx12NaaFeA4UE-50" value="scan enable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
