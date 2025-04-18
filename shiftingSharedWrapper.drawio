@@ -196,7 +196,7 @@
         <mxCell id="xG-g7r-yx12NaaFeA4UE-51" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="685" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xG-g7r-yx12NaaFeA4UE-52" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Wrapper SE Control Model&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xG-g7r-yx12NaaFeA4UE-52" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Wrapper IntSE Control Model&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-130" y="795" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xG-g7r-yx12NaaFeA4UE-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0.006;entryY=0.161;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;endArrow=none;startFill=0;" edge="1" parent="1" source="ZF7ugMqVSIhXpT3id4Wy-76" target="ZF7ugMqVSIhXpT3id4Wy-116">
